@@ -43,7 +43,7 @@
 ## 📦 نصب و اجرا
 
 ```sh
-git clone https://github.com/YOUR_USERNAME/coach-bot.git
+git clone https://github.com/mohammadjavad-gorgani/coach-bot.git
 cd coach-bot
 npm install
 cp .env.example .env
