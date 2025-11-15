@@ -28,7 +28,7 @@
 - Node.js
 - Telegraf.js
 - Sequelize ORM
-- PostgreSQL / MySQL / SQLite _(هر کدوم استفاده کردی)_
+- MySQL
 
 ---
 
