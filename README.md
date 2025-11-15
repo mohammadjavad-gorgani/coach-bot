@@ -25,7 +25,9 @@
 
 ### 🎬 دموی عملکرد ربات
 
-<video src="assets/demo/bot-demo.mp4" controls width="400"></video>
+<p align="center">
+  <video src="assets/demo/bot-demo.mp4" width="450" controls autoplay muted loop></video>
+</p>
 
 ---
 
