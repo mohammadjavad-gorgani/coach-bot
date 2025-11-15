@@ -23,10 +23,10 @@
 
 ---
 
-### 🎬 دموی عملکرد ربات
+## 🎥 دموی ربات
 
 <p align="center">
-  <video src="assets/demo/bot-demo.mp4" width="450" controls autoplay muted loop></video>
+  <img src="assets/demo/bot-demo.gif" width="350" />
 </p>
 
 ---
