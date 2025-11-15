@@ -105,7 +105,7 @@ async function initDatabase() {
 
   // Attendance.sync({force: true});
 
-  //   await sequelize.sync({ force: true });
+  // await sequelize.sync({ force: true });
   // await sequelize.sync({alter: true});
 }
 

@@ -23,6 +23,12 @@
 
 ---
 
+### 🎬 دموی عملکرد ربات
+
+<video src="assets/demo/bot-demo.mp4" controls width="400"></video>
+
+---
+
 ## 🛠️ تکنولوژی‌ها
 
 - Node.js
